@@ -3,8 +3,8 @@
 
 # GitLab settings - set to None if not used
 GITLAB_URL = 'https://gitlab.com/'
-GITLAB_USER = ''
-GITLAB_PASSWORD = ''
+GITLAB_USER = 'jangita.nyagudi@gmail.com'
+GITLAB_PASSWORD = 'emmkggkgg99'
 GITLAB_PRIVATE_TOKEN = None
 GITLAB_OAUTH_TOKEN = None
 
